@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="mailto:leejbsocial@gmail.com" target="_blank"><img src="https://img.shields.io/badge/leejbsocial@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://blog.naver.com/overstar_" target="_parent"><img src="https://img.shields.io/badge/Diary-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a><br>
+<a href="https://blog.naver.com/overstar_" target="_blank"><img src="https://img.shields.io/badge/Diary-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a><br>
 <p>Hi there 👋 My name is JeongBae Lee. I am a college student preparing to become a game developer!</p>
 <p>I hope the game I made will bring joy to everyone. :)</p><br>
