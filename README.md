@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello!&fontSize=80&fontColor=FFFFFF&fontAlignY=35&desc=I'm%20ZeNiff&descAlignY=50)
 
 <a href="mailto:leejbsocial@gmail.com" target="_blank"><img src="https://img.shields.io/badge/leejbsocial@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -22,3 +20,21 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoofMi&layout=compact)](https://github.com/RoofMi/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoofMi&show_icons=true&theme=buefy)
+-->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello!&fontSize=80&fontColor=FFFFFF&fontAlignY=35&desc=I'm%20ZeNiff&descAlignY=50" />
+</div>
+
+<div align="center">
+<a href="mailto:leejbsocial@gmail.com" target="_blank"><img src="https://img.shields.io/badge/leejbsocial@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://blog.naver.com/overstar_" target="_blank"><img src="https://img.shields.io/badge/Diary-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a><br>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoofMi&layout=compact)](https://github.com/RoofMi/github-readme-stats" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=RoofMi&show_icons=true&theme=buefy" />
+</div>
