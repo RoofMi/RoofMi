@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 <a href="mailto:leejbsocial@gmail.com" target="_blank"><img src="https://img.shields.io/badge/leejbsocial@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<br>
+<br><br><br>
+</div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoofMi&layout=compact)](https://github.com/RoofMi/github-readme-stats" />
