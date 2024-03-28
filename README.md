@@ -30,7 +30,5 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoofMi&layout=compact)](https://github.com/RoofMi/github-readme-stats" />
-<br>
 <img src="https://github-readme-stats.vercel.app/api?username=RoofMi&show_icons=true&theme=buefy" />
 </div>
