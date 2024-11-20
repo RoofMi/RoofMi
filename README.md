@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-<a href="mailto:leejbsocial@gmail.com" target="_blank"><img src="https://img.shields.io/badge/leejbsocial@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://gitlab.com/RoofMi" target="_blank"><img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=Gitlab&logoColor=white"/></a>
+<a href="https://zeniff.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory_Blog-FDD3D4?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+<a href="mailto:leejbsocial@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <br><br><br>
 </div>
 
