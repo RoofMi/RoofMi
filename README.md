@@ -32,12 +32,6 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RoofMi&show_icons=true&theme=tokyonight" />
-</div>
-
-<br><br><br>
-
-<div align="center">
 <a href="https://solved.ac/profile/needflex" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=needflex" /></a>
 <a href="https://solved.ac/profile/needflex" target="_blank"><img src="http://mazandi.herokuapp.com/api?handle=needflex&amp;theme=dark"/></a>
 </div>
